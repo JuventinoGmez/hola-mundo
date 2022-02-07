@@ -1,7 +1,7 @@
-## hola-mundo
-Mi primer repositorio de prueba.
+# Hola Mundo
+Mi primer repositorio.
 
 Autor: Juventino G.
 Fecha: 06 de febrero del 2022.
 
-Notas: Desarrollo gracias a Innovaccion virtual /
+Nota: Desarrollo gracias a Innovaccion virtual.
